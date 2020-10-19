@@ -1,0 +1,14 @@
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Entity.dll
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.csprojAssemblyReference.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.AssemblyInfo.cs
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Persistence.deps.json
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Persistence.runtimeconfig.json
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Persistence.runtimeconfig.dev.json
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Persistence.dll
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Persistence.pdb
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\bin\Debug\netcoreapp2.2\PayrollApp.Entity.pdb
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.csproj.CopyComplete
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.dll
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Persistence\obj\Debug\netcoreapp2.2\PayrollApp.Persistence.pdb

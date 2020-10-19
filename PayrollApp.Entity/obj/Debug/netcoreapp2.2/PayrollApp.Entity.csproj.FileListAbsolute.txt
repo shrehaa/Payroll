@@ -1,0 +1,9 @@
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\bin\Debug\netcoreapp2.2\PayrollApp.Entity.deps.json
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\bin\Debug\netcoreapp2.2\PayrollApp.Entity.dll
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\bin\Debug\netcoreapp2.2\PayrollApp.Entity.pdb
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.csprojAssemblyReference.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.AssemblyInfo.cs
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.dll
+C:\Users\Shreha\source\repos\PayrollApp\PayrollApp.Entity\obj\Debug\netcoreapp2.2\PayrollApp.Entity.pdb
